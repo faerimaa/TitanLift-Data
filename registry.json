@@ -9,7 +9,7 @@
     {
       "username": "test",
       "passwordHash": "db0978e8d4ba51b12f9c7b137e87d9a03ba358c2f69fa6a9c8516f76a9cf195b",
-      "status": "pending",
+      "status": "approved",
       "role": "user",
       "createdAt": "2026-01-23T11:57:11.925Z"
     }
