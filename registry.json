@@ -2,7 +2,7 @@
   "users": [
     {
       "email": "florian.duenki@gmail.com",
-      "status": "approved",
+      "status": "rejected",
       "role": "admin",
       "createdAt": "2026-01-23T05:30:19.388Z"
     }
