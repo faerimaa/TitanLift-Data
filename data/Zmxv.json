@@ -2,7 +2,10 @@
   "workouts": [],
   "userStats": {
     "trainingSplit": 4,
-    "planMode": "manual"
+    "planMode": "manual",
+    "customSessions": [
+      "Brust"
+    ]
   },
   "templates": [],
   "periodization": {
