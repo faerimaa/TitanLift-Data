@@ -1,0 +1,250 @@
+{
+  "workouts": [],
+  "userStats": {
+    "trainingSplit": 5,
+    "availableEquipment": [
+      "db",
+      "bb",
+      "cable",
+      "bench",
+      "rack",
+      "smith",
+      "leg_press",
+      "pullup",
+      "machine_chest",
+      "machine_legs",
+      "dip"
+    ],
+    "age": 43,
+    "planLocked": true,
+    "displayName": "Flo"
+  },
+  "templates": [
+    {
+      "id": "1768980863059",
+      "name": "Push",
+      "splitDay": "Push",
+      "exercises": [
+        {
+          "name": "Langhantel Bankdrücken",
+          "sets": 3,
+          "reps": "6-8"
+        },
+        {
+          "name": "Schrägbankdrücken mit Kurzhanteln (30°)",
+          "sets": 3,
+          "reps": "8-12"
+        },
+        {
+          "name": "Seitheben am Kabel (hinter dem Rücken)",
+          "sets": 3,
+          "reps": "12-15"
+        },
+        {
+          "name": "Überkopf-Trizepsdrücken am Kabel (mit Seil)",
+          "sets": 3,
+          "reps": "10-15"
+        },
+        {
+          "name": "Cable Flys (mittlere Höhe)",
+          "sets": 3,
+          "reps": "12-15"
+        }
+      ]
+    },
+    {
+      "id": "1768981114579",
+      "name": "Pull",
+      "splitDay": "Pull",
+      "exercises": [
+        {
+          "name": "Klimmzüge (mit Zusatzgewicht)",
+          "sets": 3,
+          "reps": "6-10"
+        },
+        {
+          "name": "Smith-Machine Row (Seal Row Style)",
+          "sets": 3,
+          "reps": "8-12"
+        },
+        {
+          "name": "Face Pulls mit dem Seil am Kabelzug",
+          "sets": 3,
+          "reps": "15-20"
+        },
+        {
+          "name": "Incline Dumbbell Curls (Schrägbank)",
+          "sets": 3,
+          "reps": "10-12"
+        }
+      ]
+    },
+    {
+      "id": "1768982008949",
+      "name": "Legs",
+      "splitDay": "Legs",
+      "exercises": [
+        {
+          "name": "Barbell High Bar Back Squats",
+          "sets": 3,
+          "reps": "6-8"
+        },
+        {
+          "name": "Barbell Romanian Deadlift (RDL)",
+          "sets": 3,
+          "reps": "8-10"
+        },
+        {
+          "name": "Bulgarian Split Squats (DB)",
+          "sets": 3,
+          "reps": "8-10 pro Bein"
+        },
+        {
+          "name": "Leg Extensions (Beinstrecker Maschine)",
+          "sets": 3,
+          "reps": "12-15"
+        },
+        {
+          "name": "Seated Leg Curls (Maschine)",
+          "sets": 3,
+          "reps": "10-12"
+        },
+        {
+          "name": "Standing Calf Raises (Smith Machine)",
+          "sets": 4,
+          "reps": "10-12 (2 Sek. Pause im Stretch)"
+        }
+      ]
+    },
+    {
+      "id": "1768982170855",
+      "name": "Oberkörper",
+      "splitDay": "Oberkörper",
+      "exercises": [
+        {
+          "name": "Brustpresse (Maschine)",
+          "sets": 3,
+          "reps": "10-12"
+        },
+        {
+          "name": "Einarmiger Latzug am Kabelzug",
+          "sets": 3,
+          "reps": "12-15"
+        },
+        {
+          "name": "Sitzendes Kabelrudern (breiter Griff)",
+          "sets": 3,
+          "reps": "10-12"
+        },
+        {
+          "name": "Arnold Press (Kurzhantel)",
+          "sets": 3,
+          "reps": "10-12"
+        },
+        {
+          "name": "Incline Dumbbell Curls (Schrägbank)",
+          "sets": 3,
+          "reps": "10-12"
+        }
+      ]
+    },
+    {
+      "id": "1768982246741",
+      "name": "Unterkörper",
+      "splitDay": "Unterkörper",
+      "exercises": [
+        {
+          "name": "Smith Machine Squats",
+          "sets": 3,
+          "reps": "8-10"
+        },
+        {
+          "name": "Romanian Deadlift (Barbell)",
+          "sets": 3,
+          "reps": "8-10"
+        },
+        {
+          "name": "Bulgarian Split Squats (DB)",
+          "sets": 3,
+          "reps": "10-12 pro Bein"
+        },
+        {
+          "name": "Sitzendes Beinbeugen (Machine)",
+          "sets": 3,
+          "reps": "12-15"
+        },
+        {
+          "name": "Leg Extensions (Machine)",
+          "sets": 3,
+          "reps": "12-15"
+        },
+        {
+          "name": "Stehendes Wadenheben (Smith Machine)",
+          "sets": 4,
+          "reps": "10-12"
+        }
+      ]
+    }
+  ],
+  "periodization": {
+    "plan": [
+      {
+        "week": 1,
+        "focus": "Eingewöhnung & Technik",
+        "intensity": "Niedrig",
+        "isDeload": false,
+        "description": "Fokus auf saubere Ausführung und Gewöhnung an 5 Trainingstage pro Woche (Push/Pull/Legs/Upper/Lower)."
+      },
+      {
+        "week": 2,
+        "focus": "Lineare Progression",
+        "intensity": "Moderat",
+        "isDeload": false,
+        "description": "Systematische Erhöhung der Gewichte um konstante Einheiten zur Etablierung einer Kraftbasis."
+      },
+      {
+        "week": 3,
+        "focus": "Volumensteigerung",
+        "intensity": "Moderat-Hoch",
+        "isDeload": false,
+        "description": "Erhöhung der Satzanzahl pro Muskelgruppe zur Förderung der metabolischen Anpassung."
+      },
+      {
+        "week": 4,
+        "focus": "Deload & Regeneration",
+        "intensity": "Niedrig",
+        "isDeload": true,
+        "description": "Reduktion des Volumens um 50 Prozent zur Erholung des ZNS bei dem hohen Alter und 5 Einheiten."
+      },
+      {
+        "week": 5,
+        "focus": "Kraftfokus",
+        "intensity": "Hoch",
+        "isDeload": false,
+        "description": "Fokus auf Grundübungen im niedrigen Wiederholungsbereich zur Steigerung der Maximalkraft."
+      },
+      {
+        "week": 6,
+        "focus": "Hypertrophie-Peak",
+        "intensity": "Hoch",
+        "isDeload": false,
+        "description": "Kombination aus hohem Volumen und hoher Intensität für maximalen Muskelreiz."
+      },
+      {
+        "week": 7,
+        "focus": "Overload-Phase",
+        "intensity": "Sehr Hoch",
+        "isDeload": false,
+        "description": "Maximale Belastung vor dem abschließenden Deload zur Ausnutzung der Superkompensation."
+      },
+      {
+        "week": 8,
+        "focus": "Deload & Evaluation",
+        "intensity": "Niedrig",
+        "isDeload": true,
+        "description": "Abschlusswoche zur vollständigen Regeneration und Vorbereitung auf den nächsten Zyklus."
+      }
+    ],
+    "startDate": "2026-01-21T07:57:48.735Z"
+  }
+}
