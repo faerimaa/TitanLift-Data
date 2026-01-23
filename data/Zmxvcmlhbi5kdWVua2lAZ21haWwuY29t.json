@@ -18,7 +18,7 @@
     "age": 43,
     "planLocked": true,
     "displayName": "Flo",
-    "avatarUrl": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=200&h=200&fit=crop"
+    "avatarUrl": "https://api.dicebear.com/9.x/avataaars/svg?seed=Zoe&backgroundColor=c0aede"
   },
   "templates": [
     {
