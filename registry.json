@@ -5,12 +5,6 @@
       "status": "approved",
       "role": "admin",
       "createdAt": "2026-01-23T05:30:19.388Z"
-    },
-    {
-      "email": "florian.duenki@edubs.ch",
-      "status": "rejected",
-      "role": "user",
-      "createdAt": "2026-01-23T11:07:02.888Z"
     }
   ]
 }
