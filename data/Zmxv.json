@@ -2,7 +2,7 @@
   "workouts": [],
   "userStats": {
     "trainingSplit": 4,
-    "planMode": "manual",
+    "planMode": "cycle",
     "customSessions": [
       "Tag 1"
     ]
