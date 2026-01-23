@@ -3,7 +3,9 @@
   "userStats": {
     "trainingSplit": 4,
     "planMode": "manual",
-    "customSessions": []
+    "customSessions": [
+      "Tag 1"
+    ]
   },
   "templates": [],
   "periodization": {
