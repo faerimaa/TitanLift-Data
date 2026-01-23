@@ -5,13 +5,6 @@
       "status": "approved",
       "role": "admin",
       "createdAt": "2026-01-23T05:30:19.388Z"
-    },
-    {
-      "username": "test",
-      "passwordHash": "e83e71380a2dac8a7afa2ba7b00267cfa5505157c993c3467f881e4c17ba51cd",
-      "status": "approved",
-      "role": "user",
-      "createdAt": "2026-01-23T11:53:02.978Z"
     }
   ]
 }
