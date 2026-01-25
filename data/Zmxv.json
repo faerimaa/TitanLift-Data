@@ -1,5 +1,79 @@
 {
-  "workouts": [],
+  "workouts": [
+    {
+      "id": "1769331972606",
+      "date": "2026-01-25T09:06:12.606Z",
+      "name": "Brust",
+      "exercises": [
+        {
+          "id": "0",
+          "name": "Klassische Liegestütze",
+          "muscleGroup": "Template",
+          "sets": [
+            {
+              "reps": 10,
+              "weight": 10,
+              "completed": true
+            },
+            {
+              "reps": 10,
+              "weight": 10,
+              "completed": true
+            },
+            {
+              "reps": 10,
+              "weight": 10,
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": "1",
+          "name": "Füsse erhöhte Liegestütze (Decline)",
+          "muscleGroup": "Template",
+          "sets": [
+            {
+              "reps": 10,
+              "weight": 5,
+              "completed": true
+            },
+            {
+              "reps": 10,
+              "weight": 5,
+              "completed": true
+            },
+            {
+              "reps": 10,
+              "weight": 5,
+              "completed": true
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "name": "Sliding Floor Flyes (mit Handtuch)",
+          "muscleGroup": "Template",
+          "sets": [
+            {
+              "reps": 10,
+              "weight": 5,
+              "completed": true
+            },
+            {
+              "reps": 10,
+              "weight": 5,
+              "completed": true
+            },
+            {
+              "reps": 10,
+              "weight": 5,
+              "completed": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "userStats": {
     "trainingSplit": 4,
     "planMode": "manual",
