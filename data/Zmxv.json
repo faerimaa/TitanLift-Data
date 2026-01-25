@@ -83,6 +83,12 @@
         "targetMuscles": [
           "Brust"
         ]
+      },
+      {
+        "name": "Rücken",
+        "targetMuscles": [
+          "Rücken"
+        ]
       }
     ]
   },
