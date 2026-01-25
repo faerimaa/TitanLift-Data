@@ -5,13 +5,6 @@
       "status": "approved",
       "role": "admin",
       "createdAt": "2026-01-23T05:30:19.388Z"
-    },
-    {
-      "username": "flo",
-      "passwordHash": "351982d0a874d49e1ea630cc98a5c59ddf492cb2b266154113fbb29eaa79773c",
-      "status": "approved",
-      "role": "user",
-      "createdAt": "2026-01-23T12:11:54.001Z"
     }
   ]
 }
