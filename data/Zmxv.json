@@ -76,7 +76,7 @@
   ],
   "userStats": {
     "trainingSplit": 4,
-    "planMode": "static",
+    "planMode": "manual",
     "customSessions": [
       {
         "name": "Brust",
