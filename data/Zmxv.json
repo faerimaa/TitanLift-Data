@@ -1,0 +1,12 @@
+{
+  "workouts": [],
+  "userStats": {
+    "trainingSplit": 4,
+    "planMode": "manual"
+  },
+  "templates": [],
+  "periodization": {
+    "plan": [],
+    "startDate": null
+  }
+}
