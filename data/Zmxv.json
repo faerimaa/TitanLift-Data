@@ -12,7 +12,30 @@
       }
     ]
   },
-  "templates": [],
+  "templates": [
+    {
+      "id": "1769331650842",
+      "name": "Brust",
+      "splitDay": "Brust",
+      "exercises": [
+        {
+          "name": "Klassische Liegestütze",
+          "sets": 3,
+          "reps": "Bis 1-2 RIR"
+        },
+        {
+          "name": "Füsse erhöhte Liegestütze (Decline)",
+          "sets": 3,
+          "reps": "10-15"
+        },
+        {
+          "name": "Sliding Floor Flyes (mit Handtuch)",
+          "sets": 3,
+          "reps": "10-15"
+        }
+      ]
+    }
+  ],
   "periodization": {
     "plan": [],
     "startDate": null
