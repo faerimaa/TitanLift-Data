@@ -7,7 +7,40 @@
       "Tag 1"
     ]
   },
-  "templates": [],
+  "templates": [
+    {
+      "id": "1769952226530",
+      "name": "Ganzkörper A",
+      "splitDay": "Ganzkörper A",
+      "exercises": [
+        {
+          "name": "Bulgarian Split Squats",
+          "sets": 3,
+          "reps": "8-12 pro Seite"
+        },
+        {
+          "name": "Liegestütze (Standard)",
+          "sets": 3,
+          "reps": "Bis Muskelversagen"
+        },
+        {
+          "name": "Einbeiniges Kreuzheben (ohne Gewicht)",
+          "sets": 3,
+          "reps": "10-12 pro Seite"
+        },
+        {
+          "name": "Türrahmen-Rudern",
+          "sets": 3,
+          "reps": "12-15"
+        },
+        {
+          "name": "Plank (Unterarmstütz)",
+          "sets": 3,
+          "reps": "45-60 Sek."
+        }
+      ]
+    }
+  ],
   "periodization": {
     "plan": [],
     "startDate": null
