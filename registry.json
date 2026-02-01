@@ -12,6 +12,13 @@
       "status": "approved",
       "role": "user",
       "createdAt": "2026-01-25T08:59:21.641Z"
+    },
+    {
+      "username": "irond",
+      "passwordHash": "8ec957b272194bd7e7338f7fc779c90069a4114aa5106fd0e613fe0b856a85ba",
+      "status": "pending",
+      "role": "user",
+      "createdAt": "2026-02-01T16:57:02.411Z"
     }
   ]
 }
