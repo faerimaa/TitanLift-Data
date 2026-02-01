@@ -1,121 +1,13 @@
 {
-  "workouts": [
-    {
-      "id": "1769331972606",
-      "date": "2026-01-25T09:06:12.606Z",
-      "name": "Brust",
-      "exercises": [
-        {
-          "id": "0",
-          "name": "Klassische Liegestütze",
-          "muscleGroup": "Template",
-          "sets": [
-            {
-              "reps": 10,
-              "weight": 10,
-              "completed": true
-            },
-            {
-              "reps": 10,
-              "weight": 10,
-              "completed": true
-            },
-            {
-              "reps": 10,
-              "weight": 10,
-              "completed": true
-            }
-          ]
-        },
-        {
-          "id": "1",
-          "name": "Füsse erhöhte Liegestütze (Decline)",
-          "muscleGroup": "Template",
-          "sets": [
-            {
-              "reps": 10,
-              "weight": 5,
-              "completed": true
-            },
-            {
-              "reps": 10,
-              "weight": 5,
-              "completed": true
-            },
-            {
-              "reps": 10,
-              "weight": 5,
-              "completed": true
-            }
-          ]
-        },
-        {
-          "id": "2",
-          "name": "Sliding Floor Flyes (mit Handtuch)",
-          "muscleGroup": "Template",
-          "sets": [
-            {
-              "reps": 10,
-              "weight": 5,
-              "completed": true
-            },
-            {
-              "reps": 10,
-              "weight": 5,
-              "completed": true
-            },
-            {
-              "reps": 10,
-              "weight": 5,
-              "completed": true
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "workouts": [],
   "userStats": {
-    "trainingSplit": 4,
-    "planMode": "manual",
+    "trainingSplit": 3,
+    "planMode": "cycle",
     "customSessions": [
-      {
-        "name": "Brust",
-        "targetMuscles": [
-          "Brust"
-        ]
-      },
-      {
-        "name": "Rücken",
-        "targetMuscles": [
-          "Rücken"
-        ]
-      }
+      "Tag 1"
     ]
   },
-  "templates": [
-    {
-      "id": "1769331650842",
-      "name": "Brust",
-      "splitDay": "Brust",
-      "exercises": [
-        {
-          "name": "Klassische Liegestütze",
-          "sets": 3,
-          "reps": "Bis 1-2 RIR"
-        },
-        {
-          "name": "Füsse erhöhte Liegestütze (Decline)",
-          "sets": 3,
-          "reps": "10-15"
-        },
-        {
-          "name": "Sliding Floor Flyes (mit Handtuch)",
-          "sets": 3,
-          "reps": "10-15"
-        }
-      ]
-    }
-  ],
+  "templates": [],
   "periodization": {
     "plan": [],
     "startDate": null
